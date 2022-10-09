@@ -1,4 +1,4 @@
-# Raiffeisen_GAN_transactions
+# Raiffeisen-GAN-transactions
 Implementing hypotheses about what external data might affect consumer activity in different categories among customers. Simulating the behavior of bank customers using a generative-adversarial neural network based on Raiffeisen dataset.
 ## Clustering
 We clustered all customers based on their transactions groupped by day and MCC (Merchant Category Codes). Defined 8 main clusters to help gan model produce new transactions that follow particular pattern. 
